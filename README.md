@@ -1,5 +1,5 @@
-# breackPortal
-Demo game of breackPortal
+# breakPortal
+Demo game of breakPortal
 
 ![alt tag](screenShoot/1.png)
 

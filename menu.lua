@@ -55,7 +55,7 @@ function menu:draw()
 	love.graphics.setColor(255, 255, 255, 255)
 	love.graphics.setBackgroundColor(42,42,42)
 	love.graphics.setFont(env.bigFont)
-	love.graphics.print('Breack Portal', love.window.getWidth() / 2 - 150, 60)
+	love.graphics.print('Break Portal', love.window.getWidth() / 2 - 150, 60)
 	env.butt.draw(menu.buttons)
 end
 
